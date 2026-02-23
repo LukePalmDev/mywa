@@ -1,0 +1,11 @@
+[14/02/26, 10:00:00 AM] Luca ha creato il gruppo "Progetto X Team"
+[14/02/26, 10:01:12 AM] Luca: Ciao team, kickoff tra 10 minuti.
+[14/02/26, 10:02:03 AM] Sara: Presente.
+[14/02/26, 10:02:28 AM] Luke: Arrivo, apro io il board condiviso.
+[14/02/26, 10:03:05 AM] Davide: Perfetto, io preparo la bozza API.
+[14/02/26, 11:40:22 AM] Sara: Riepilogo task:
+- landing
+- parser
+- test
+[14/02/26, 11:41:05 AM] Luke: Mi prendo parser e validazione file.
+[14/02/26, 11:42:17 AM] Davide: Chiudo io con deploy e monitoraggio.
